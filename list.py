@@ -1,6 +1,6 @@
 """
 Course      : Python Is Easy       | Homework    : #4
-Lecture     : Lists                | Student Name: Abu Hdz  | Date : 07 Apr 2019
+Home Assignment : Lists            | Student Name: Abu Hdz  | Date : 07 Apr 2019
 """
 
 myUniqueList = []
